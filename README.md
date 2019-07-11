@@ -149,4 +149,13 @@ Here you have to write little javacript code to create a condition,so at particu
 
 - ![alt tag](https://github.com/rjrajbir/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/email_output_step3.JPG)
 
-# If you see no emails are sending or "sending failed",Go to google account 
+# If you see no emails are sending or "sending failed",Go to google account and you'll see security issue find.
+
+- ![alt tag](https://github.com/rjrajbir/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/google_security_alert.JPG)
+
+- ![alt tag](https://github.com/rjrajbir/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/google_account.JPG)
+
+- **Click on it and allow "Third party access" to the apps as shown in in the figure**
+
+- ![alt tag](https://github.com/rjrajbir/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/Third_party_access.JPG)
+If you still not getting emails,you can also check your spam folder.
