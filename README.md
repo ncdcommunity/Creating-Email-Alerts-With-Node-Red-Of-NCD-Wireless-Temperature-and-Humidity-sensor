@@ -133,7 +133,7 @@ Here you have to write little javacript code to create a condition,so at particu
 
 - **Now draw all the wires and click deploy as shown in picture.**
 
-- ![alt tag](https://github.com/rjrajbir/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/email_node_step1.JPG)
+- ![alt tag](https://github.com/ncdcommunity/Creating-Email-Alerts-With-Node-Red-Of-NCD-Wireless-Temperature-and-Humidity-sensor/blob/master/final_flow.JPG)
 
 - **Now you will see emails are sending.You can also check on the rspective email-id**
 
